@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning java, solidity
 - 💞️ I’m looking to collaborate on various innovative projects 
 - 📫 How to reach me on discord- cybersam01
--                       twitter- Bamidel69154638
+-                       twitter- xybersam
 
 <!---
 cybersamrai/cybersamrai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
